@@ -1,0 +1,6 @@
+{
+  "name": "Triagens Clínicas - Ansiedade, Autismo (AQ-50) & Burnout (CBI)",
+  "description": "Sistema de triagem psicológica e neuropsicológica para Ansiedade (Greenberger & Padesky), Autismo em Adultos (AQ-50) e Burnout Multidimensional (CBI).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
